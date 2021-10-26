@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "building the C++make LED file"
+g++ makeLED-hw6.cpp -o makeLED-hw6
+echo "Complete"
